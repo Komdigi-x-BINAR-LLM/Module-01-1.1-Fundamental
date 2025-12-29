@@ -1,4 +1,5 @@
 # Hands on Pytorch
+1.1 Pengantar AI Engineering
 
 ## Petunjuk set up environment python
 
@@ -41,5 +42,6 @@ uv run hello_world.py
 - [loss_and_backprop.py](loss_and_backprop.py) - Implementasi loss function dan menghitung gradien untuk proses training
 - [serialize_deserialize.py](serialize_deserialize.py) - Contoh menyimpan dan membaca parameter model dan informasi lainnya
 ## Tugas
+
 
 Cek folder [tugas-modul-1](tugas-modul-1)
